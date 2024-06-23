@@ -4,7 +4,7 @@ Instruções de uso do programa Criar identidade
 OBS: Caso você não tenha o IDLE (interpretador do Python), baixe-o no site https://www.python.org
 
 OBS: É possível incluir mais nomes, sobrenomes e provedores de e-mails, para isso, basta acrescentar
-mais dados aos arquivos da pasta lista, respectivamente:
+mais dados aos arquivos da pasta listas, respectivamente:
 
 -Lista de nomes.txt
 -Lista de sobrenomes.txt
